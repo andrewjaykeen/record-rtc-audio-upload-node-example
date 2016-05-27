@@ -6,14 +6,12 @@ TODO: continue to strip down the example static html file
 TODO: clean up the front-end JS to not use global vars
 TODO: combine/simplify the backend node code
 
-TODO: create github repo
+DONE: create github repo
 TODO: link to the video example: https://github.com/muaz-khan/RecordRTC/tree/master/RecordRTC-to-Nodejs
 TODO: does FF have a work around for the "allow this device" popup dialog for every single time you click the record button?
     http://stackoverflow.com/questions/14610945/how-to-choose-input-video-device-for-webrtc
 
-
-
-TODO: create README with:
+DONE: create README with:
     -instructions to git clone and run node index.js (or type 'npm start') - requires no modules to run
     -simple description of what it does
     -give props to RecordRTC author muaz-khan (https://github.com/muaz-khan/WebRTC-Experiment)
